@@ -1,4 +1,4 @@
-### parted static for arm64
+### gnu parted arm64 static binary
 
-parted static builds for arm64
+used by [pocketblue](https://github.com/pocketblue/pocketblue) installation script for mipad5
 
